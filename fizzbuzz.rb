@@ -8,4 +8,4 @@ def fizz_buzz(int)
   else
     puts "nil"
   end
-  end
+end
